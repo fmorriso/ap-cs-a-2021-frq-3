@@ -1,3 +1,8 @@
+/**
+ * AP CS A - 2021 - FRQ #3
+ * Created By: Frederick Morrison
+ * Creation Date: 2023-04-26
+ */
 import java.util.ArrayList;
 
 public class ClubMembersDriver
